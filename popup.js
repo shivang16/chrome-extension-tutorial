@@ -1,0 +1,1 @@
+console.log("This log from the new chrome extension");
